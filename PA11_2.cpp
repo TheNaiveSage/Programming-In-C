@@ -3,8 +3,13 @@
 //  C++ Program
 //
 //  Created by Brianna Thompson on 11/25/18.
-//  Copyright © 2018 Brianna Thompson. All rights reserved.
-//
+//  Copyright Â© 2018 Brianna Thompson. All rights reserved.
+// Write a program that creates a random array of letters. 
+// Ask the user how many letters should be in the array.  Ask 
+// the user if a sequence of two letters is in a random array 
+// of letters. For full credit indicate where in the string the 
+// letter pair exists or report that it doesn't exist. Show outputs 
+// for both situations.
 
 #include <stdio.h>
 #include <iostream>
