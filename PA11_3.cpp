@@ -3,8 +3,11 @@
 //  C++ Program
 //
 //  Created by Brianna Thompson on 11/25/18.
-//  Copyright © 2018 Brianna Thompson. All rights reserved.
-//
+//  Copyright Â© 2018 Brianna Thompson. All rights reserved.
+// Write a program that creates a random array of letters. 
+// Ask the user how many letters should be in the array.  Then 
+// make a table of the occurrences of each letter in a random 
+// array of letters. Hint: Use logic similar to PA 10-3.
 
 #include <stdio.h>
 #include <iostream>
